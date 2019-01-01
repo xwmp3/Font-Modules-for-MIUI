@@ -1,0 +1,7 @@
+id=Klee-Pro-Miui-v1
+name=クレPro（Fontworks Klee Pro）
+version=v1.01
+versionCode=1
+author=YIXUEV5
+description=用于MIUI字体替换，字体文件来自酷安@宁静之雨，原模块来自NJZYSHARE
+minMagisk=1500
