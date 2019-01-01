@@ -1,1 +1,7 @@
-# Klee Pro font from Fontworks
+# Klee Pro Font Systemless for MIUI
+
+#### 这是一个Magisk字体替换模块，字体文件来自酷安@宁静之雨
+---------------------------------------------------------
+字体名称：クレPro
+
+如有侵权，请立即联系作者删除
