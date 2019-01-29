@@ -1,0 +1,7 @@
+id=201901011103
+name=クレPro（Fontworks Klee Pro）
+version=v0.1-alpha
+versionCode=1
+author=XWMP3
+description=用于MIUI字体替换，字体文件来自酷安@宁静之雨，原模块来自NJZYSHARE-浪漫雅圆
+minMagisk=1500
