@@ -1,9 +1,9 @@
-# Magisk Module Template
+# 苍耳今楷（TsangerJinKai）
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+字体名称：苍耳今楷
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+适用Magisk版本：Magisk v18.0 测试可用
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+适用MIUI版本：MIUI 10 开发版 9.1.25 测试可用
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
+如有侵权，请立即联系作者删除
