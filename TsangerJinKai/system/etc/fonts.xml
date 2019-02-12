@@ -30,10 +30,10 @@
         <font weight="400" style="italic">Roboto-Italic.ttf</font>
         <font weight="500" style="normal">Roboto-Medium.ttf</font>
         <font weight="500" style="italic">Roboto-MediumItalic.ttf</font>
-        <font weight="900" style="normal">Roboto-Black.ttf</font>
-        <font weight="900" style="italic">Roboto-BlackItalic.ttf</font>
         <font weight="700" style="normal">Roboto-Bold.ttf</font>
         <font weight="700" style="italic">Roboto-BoldItalic.ttf</font>
+        <font weight="900" style="normal">Roboto-Black.ttf</font>
+        <font weight="900" style="italic">Roboto-BlackItalic.ttf</font>
     </family>
 
     <!-- Note that aliases must come after the fonts they reference. -->
@@ -98,7 +98,7 @@
     <family name="sans-serif-smallcaps">
         <font weight="400" style="normal">CarroisGothicSC-Regular.ttf</font>
 	</family>
-	
+
 
 
 
@@ -185,8 +185,8 @@
     <family lang="und-Taml" variant="elegant">
         <font weight="400" style="normal">NotoSansTamil-Regular.ttf</font>
         <font weight="700" style="normal">NotoSansTamil-Bold.ttf</font>
-        <font weight="400" style="normal" fallbackFor="serif">NotoSerifGurmukhi-Regular.otf</font>
-        <font weight="700" style="normal" fallbackFor="serif">NotoSerifGurmukhi-Bold.otf</font>
+        <font weight="400" style="normal" fallbackFor="serif">NotoSerifTamil-Regular.otf</font>
+        <font weight="700" style="normal" fallbackFor="serif">NotoSerifTamil-Bold.otf</font>
     </family>
     <family lang="und-Taml" variant="compact">
         <font weight="400" style="normal">NotoSansTamilUI-Regular.ttf</font>
@@ -526,7 +526,7 @@
     <family>
         <font weight="400" style="normal">NotoSansSymbols-Regular-Subsetted.ttf</font>
     </family>
-	
+
 	<!-- Light Regular Bold 3 weights-->
     <family lang="zh-Hans">
 		<font weight="300" style="normal">NotoSansSC-Light.otf</font>
@@ -542,7 +542,7 @@
         <font weight="400" style="normal" index="2">NotoSansCJK-Regular.ttc</font>
         <font weight="400" style="normal" index="2" fallbackFor="serif">NotoSansCJK-Regular.ttc</font>
     </family>
-	
+
     <family lang="zh-Hant zh-Bopo">
         <font weight="400" style="normal" index="3">NotoSansCJK-Regular.ttc</font>
         <font weight="400" style="normal" index="3" fallbackFor="serif">NotoSansCJK-Regular.ttc</font>
